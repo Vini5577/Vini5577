@@ -17,7 +17,7 @@ atualmente estudando Java!!
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img height="45" width="45" src="https://user-images.githubusercontent.com/91129945/220963625-60bcac6b-f5cc-4578-bda2-546637bd7a49.png" />
 </div>
 
 ##
