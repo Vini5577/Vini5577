@@ -24,3 +24,8 @@ atualmente estudando Java!!
 ##
 
 <a target="_blank" href="https://www.linkedin.com/in/hugo-vinícius-pessoa-de-melo-santos-45135b217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><a/>
+
+  <div>
+ 
+ ![Snake animation](https://github.com/Vini5577/Vini5577/blob/output/github-contribution-grid-snake.svg)
+</div>
