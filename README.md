@@ -1,8 +1,8 @@
-## Programador Java e Fron-End!
+## Programador Full-Stack
 
 E-mail para contato: ugopessoa@gmail.com
 
-Atualmente aprimorando conhecimento em Java.
+Atualmente aprimorando conhecimento em Java e Javasript.
 
 <div>
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=Vini5577&show_icons=true&count_private=true&theme=tokyonight" alt="Hugo Vinicius github stats" /> 
