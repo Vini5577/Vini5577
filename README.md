@@ -11,20 +11,30 @@ Atualmente aprimorando conhecimento em Java e Javasript.
   <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini5577&theme=tokyonight" />
 </div>
 
-<div>
+<h2>Cocnhecimentos: </h2>
+
+<h3>Visionamento de Código</h3>
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+<h3> Linguagens Back-End</h3>
+<div>
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />  
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="45" width="45" src="https://user-images.githubusercontent.com/91129945/220963625-60bcac6b-f5cc-4578-bda2-546637bd7a49.png" />
+</div>
+
+<h3>Linguagens Front-End</h3>
+<div>
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />        
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="45" width="45" src="https://user-images.githubusercontent.com/91129945/220963625-60bcac6b-f5cc-4578-bda2-546637bd7a49.png" />
 </div>
 
 ##
