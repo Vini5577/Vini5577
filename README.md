@@ -14,7 +14,9 @@ Atualmente aprimorando conhecimento em Java e Javasript.
 <h2>Cocnhecimentos: </h2>
 
 <h3 align="center">Visionamento de Código</h3>
+<div align="center">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</div>
   
 <h3 align="center"> Linguagens Back-End</h3>
 <div align="center">
