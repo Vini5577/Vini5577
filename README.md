@@ -11,7 +11,7 @@ Atualmente aprimorando conhecimento em Java e Javasript.
   <img width="40%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini5577&theme=tokyonight" />
 </div>
 
-<h2>Cocnhecimentos: </h2>
+<h2 align="center">Cocnhecimentos: </h2>
 
 <h3 align="center">Visionamento de Código</h3>
 <div align="center">
