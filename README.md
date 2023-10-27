@@ -22,7 +22,14 @@ Atualmente aprimorando conhecimento em Java e Typescript.
 <div align="center">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
-  
+
+<h3 align="center"> Banco de dados</h3>
+<div align="center">
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="45" width="45" src="https://user-images.githubusercontent.com/91129945/220963625-60bcac6b-f5cc-4578-bda2-546637bd7a49.png" />
+  <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />      
+</div>
+
 <h3 align="center"> Linguagens Back-End</h3>
 <div align="center">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
@@ -30,8 +37,6 @@ Atualmente aprimorando conhecimento em Java e Typescript.
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img height="45" width="45" src="https://user-images.githubusercontent.com/91129945/220963625-60bcac6b-f5cc-4578-bda2-546637bd7a49.png" />
 </div>
 
 <h3 align="center">Linguagens Front-End</h3>
