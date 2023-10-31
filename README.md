@@ -4,7 +4,7 @@
 
 E-mail para contato: ugopessoa@gmail.com
 
-Atualmente aprimorando conhecimento em Java e Typescript.
+Atualmente aprimorando conhecimento em Spring e Angular.
 
 <div>
   <img width="49%" height="250px" src="https://github-readme-stats.vercel.app/api?username=Vini5577&show_icons=true&count_private=true&theme=tokyonight" alt="Hugo Vinicius github stats" /> 
@@ -44,8 +44,8 @@ Atualmente aprimorando conhecimento em Java e Typescript.
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />      
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />   
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />   
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 </div>
 
