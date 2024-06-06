@@ -27,7 +27,8 @@ Currently improving knowledge in Spring and Angular.
 <div align="center">
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="45" width="45" src="https://user-images.githubusercontent.com/91129945/220963625-60bcac6b-f5cc-4578-bda2-546637bd7a49.png" />
-  <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />      
+  <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />    
 </div>
 
 <h3 align="center">Back-End Languages</h3>
