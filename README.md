@@ -20,7 +20,12 @@ Currently improving knowledge in Spring and Angular.
 
 <h3 align="center">Dependency Management</h3>
 <div align="center">
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
+</div>
+
+<h3 align="center">Messaging</h3>
+<div align="center">
+  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 </div>
 
 <h3 align="center"> Databases</h3>
